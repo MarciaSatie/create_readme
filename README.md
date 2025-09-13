@@ -15,7 +15,10 @@ No installation needed. Just clone this repository or copy the `create_readme.sh
 
 ```bash
 git clone https://github.com/MarciaSatie/create_readme.git
+```
 
 ## My blog page
 You can check for more information at:
+```bash
 https://hashnode.com/draft/68987f807dc811cedebf856b
+```
