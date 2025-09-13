@@ -14,5 +14,8 @@ It’s useful when starting new projects, so you don’t have to manually create
 No installation needed. Just clone this repository or copy the `create_readme.sh` script into your project folder.
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/MarciaSatie/create_readme.git
+
+## My blog page
+You can check for more information at:
+https://hashnode.com/draft/68987f807dc811cedebf856b
